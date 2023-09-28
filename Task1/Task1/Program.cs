@@ -43,6 +43,8 @@ namespace Task1
             {
                 Console.WriteLine(evenNumList[i]);
             }
+
+            Console.WriteLine("Largets even number is: " + evenNumList.Max()); // Output the biggest number in our array (List)
         }
     }
 }
