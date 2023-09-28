@@ -1,0 +1,14 @@
+D:\csharp-projects\Task1\Task1\bin\Release\net6.0\Task1.exe
+D:\csharp-projects\Task1\Task1\bin\Release\net6.0\Task1.deps.json
+D:\csharp-projects\Task1\Task1\bin\Release\net6.0\Task1.runtimeconfig.json
+D:\csharp-projects\Task1\Task1\bin\Release\net6.0\Task1.dll
+D:\csharp-projects\Task1\Task1\bin\Release\net6.0\Task1.pdb
+D:\csharp-projects\Task1\Task1\obj\Release\net6.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\Task1\Task1\obj\Release\net6.0\Task1.AssemblyInfoInputs.cache
+D:\csharp-projects\Task1\Task1\obj\Release\net6.0\Task1.AssemblyInfo.cs
+D:\csharp-projects\Task1\Task1\obj\Release\net6.0\Task1.csproj.CoreCompileInputs.cache
+D:\csharp-projects\Task1\Task1\obj\Release\net6.0\Task1.dll
+D:\csharp-projects\Task1\Task1\obj\Release\net6.0\refint\Task1.dll
+D:\csharp-projects\Task1\Task1\obj\Release\net6.0\Task1.pdb
+D:\csharp-projects\Task1\Task1\obj\Release\net6.0\Task1.genruntimeconfig.cache
+D:\csharp-projects\Task1\Task1\obj\Release\net6.0\ref\Task1.dll
