@@ -7,7 +7,6 @@ namespace Task1
     {
         static void Main(string[] args)
         {
-            int firstNumber;
             int outputAmount;
             List<string> evenNumList = new List<string>();
 
