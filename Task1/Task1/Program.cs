@@ -9,9 +9,7 @@ namespace Task1
         {
             int firstNumber;
             int outputAmount;
-            string[] evenNumbers = { };
-
-            List<string> evenNumList = evenNumbers.ToList();
+            List<string> evenNumList = new List<string>();
 
             Console.Write("What number would you want the other random numbers to check for even: ");
             string outputParse1 = Console.ReadLine();
@@ -21,25 +19,33 @@ namespace Task1
             string outputParse = Console.ReadLine();
             outputAmount = int.Parse(outputParse);
 
-            for (int i = 0; i < outputAmount; i++)
+            for ( int i = 0; i < outputAmount; i++)
             {
-                if ( ( firstNumber % i ) != 0 )
+                Random newRandom = new Random();
+                try
                 {
-                    Console.WriteLine(i + " is even to " + firstNumber);
+                    int randomNumber = newRandom.Next(0, 100);
 
-                    evenNumList.Add(Convert.ToString(i));
+                    if ( firstNumber % randomNumber == 0 )
+                    {
+                        evenNumList.Add(Convert.ToString(randomNumber));
+                    }
                 }
-                else
+                catch (DivideByZeroException)
                 {
-                    Console.WriteLine(i + " is not even to " + firstNumber);
+                    int randomNumber = newRandom.Next(0, 100);
+
+                    if ( firstNumber % randomNumber == 0)
+                    {
+                        evenNumList.Add(Convert.ToString(randomNumber));
+                    }
                 }
-                
             }
 
-            Console.WriteLine("All even numbers are:");
+            Console.WriteLine("All even numbers are:   " + evenNumList.Count);
             for (int i = 0; i < evenNumList.Count; i++)
             {
-                Console.WriteLine(evenNumbers.GetValue(i));
+                Console.WriteLine(evenNumList[i]);
             }
         }
     }
