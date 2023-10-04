@@ -1,0 +1,14 @@
+D:\csharp-projects\RandomThing\RandomThing\bin\Debug\net6.0\RandomThing.exe
+D:\csharp-projects\RandomThing\RandomThing\bin\Debug\net6.0\RandomThing.deps.json
+D:\csharp-projects\RandomThing\RandomThing\bin\Debug\net6.0\RandomThing.runtimeconfig.json
+D:\csharp-projects\RandomThing\RandomThing\bin\Debug\net6.0\RandomThing.dll
+D:\csharp-projects\RandomThing\RandomThing\bin\Debug\net6.0\RandomThing.pdb
+D:\csharp-projects\RandomThing\RandomThing\obj\Debug\net6.0\RandomThing.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\RandomThing\RandomThing\obj\Debug\net6.0\RandomThing.AssemblyInfoInputs.cache
+D:\csharp-projects\RandomThing\RandomThing\obj\Debug\net6.0\RandomThing.AssemblyInfo.cs
+D:\csharp-projects\RandomThing\RandomThing\obj\Debug\net6.0\RandomThing.csproj.CoreCompileInputs.cache
+D:\csharp-projects\RandomThing\RandomThing\obj\Debug\net6.0\RandomThing.dll
+D:\csharp-projects\RandomThing\RandomThing\obj\Debug\net6.0\refint\RandomThing.dll
+D:\csharp-projects\RandomThing\RandomThing\obj\Debug\net6.0\RandomThing.pdb
+D:\csharp-projects\RandomThing\RandomThing\obj\Debug\net6.0\RandomThing.genruntimeconfig.cache
+D:\csharp-projects\RandomThing\RandomThing\obj\Debug\net6.0\ref\RandomThing.dll
