@@ -30,9 +30,7 @@ namespace GuessTheNumber
         {
             Console.Write("What would you like your maximum randomized number to be: ");
 
-            string writeInput = Console.ReadLine();
-
-            int returnedValue = int.Parse(writeInput);
+            int returnedValue = int.Parse(Console.ReadLine());
 
             if (returnedValue <= 0 || returnedValue == null)
             {
