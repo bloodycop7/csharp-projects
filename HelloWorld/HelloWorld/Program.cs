@@ -1,4 +1,5 @@
-﻿using System.Runtime.ExceptionServices;
+﻿using System.Net.Security;
+using System.Runtime.ExceptionServices;
 
 namespace HelloWorld
 {
@@ -37,6 +38,37 @@ namespace HelloWorld
                 increasedStars++;
             }
             */
+
+            /* Task 4
+
+            decimal a = decimal.Parse(Console.ReadLine());
+            decimal b = decimal.Parse(Console.ReadLine());
+
+            Console.WriteLine("\n-------------------\n");
+
+            Console.WriteLine("A | B | Area");
+            Console.Write(a + " | " + b + " | " + (a * b));
+
+            */
+            
+            // Task 5
+                // This is probably the most annoying thing I have EVER done.
+                // 9:56 PM: I'm going insane.
+
+            int starCount = int.Parse(Console.ReadLine());
+
+            Console.Write(new string('*', starCount));
+            Console.Write("\n");
+
+            for (int i = 0; i < (starCount - 2); i++)
+            {
+                Console.Write("*" + new string(' ', (starCount - 2)) + "*\n");
+            }
+
+            Console.WriteLine(new string('*', starCount));
+            
+
+            Console.ReadKey();
         }
     }
 }
