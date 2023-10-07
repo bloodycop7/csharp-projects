@@ -51,7 +51,7 @@ namespace HelloWorld
 
             */
             
-            // Task 5
+            /* Task 5
                 // This is probably the most annoying thing I have EVER done.
                 // 9:56 PM: I'm going insane.
 
@@ -66,7 +66,7 @@ namespace HelloWorld
             }
 
             Console.WriteLine(new string('*', starCount));
-            
+            */
 
             Console.ReadKey();
         }
