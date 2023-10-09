@@ -5,6 +5,18 @@ namespace HelloWorld
 {
     internal class Program
     {
+
+        /* Обяснения
+            - Task 1:
+                - int outputVar = variable -- Регистрира нов variable с value (3522 + 52353) * 23 - (2336 * 501 + 23432 - 6743) * 3
+
+                - Console.WriteLine(outputVar) -- Принтира на нов ред регистрирания int variable
+            - Task 2:
+                for (int i = 1; i < 21;  i++) - Започва ново повторение което се повторя докато числото не стига до 20
+
+                Console.WriteLine(i) - Принтира на нов ред числото което е на ред в повторението
+
+        */
         static void Main(string[] args)
         {
             /* Task 1
@@ -16,7 +28,7 @@ namespace HelloWorld
             // Task 2
             // Мързи ме да пиша WriteLine от 1 до 20
 
-            for (int i = 1; i < 21;  i++) // for loop - повтаря едно и също действие докато числото не стигне 21
+            for (int i = 1; i < 21;  i++) // for loop - повтаря едно и също действие докато числото не стигне 21 (20)
             {
                 Console.WriteLine(i);
             }
