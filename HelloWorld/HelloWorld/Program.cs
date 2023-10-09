@@ -8,7 +8,7 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             /* Task 1
-            int outputVar = (3522 + 52353) * 23 - (2336 * 501 + 23432 - 6743) * 3;
+            double outputVar = (3522 + 52353) * 23 - (2336 * 501 + 23432 - 6743) * 3;
             Console.WriteLine(outputVar); // Gotta make it look clean :D
 
             Console.ReadKey();*/
