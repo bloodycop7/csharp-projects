@@ -13,14 +13,13 @@ namespace HelloWorld
 
             Console.ReadKey();*/
 
-            /* Task 2
+            // Task 2
             // Мързи ме да пиша WriteLine от 1 до 20
 
-            for (int i = 0; i < 21;  i++)
+            for (int i = 1; i < 21;  i++) // for loop - повтаря едно и също действие докато числото не стигне 21
             {
                 Console.WriteLine(i);
             }
-            */
 
             /* Task 3
             int increasedStars = 0;
