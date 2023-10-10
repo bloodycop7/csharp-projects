@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 
 namespace Task1
 {
@@ -7,44 +8,30 @@ namespace Task1
     {
         static void Main(string[] args)
         {
-            int outputAmount;
-            List<string> evenNumList = new List<string>();
+            Stopwatch stopwatch = new Stopwatch();
 
-            Console.Write("How many outputs would you like: ");
-            string outputParse = Console.ReadLine();
-            outputAmount = int.Parse(outputParse);
+            string correctString = "hello world";
 
-            for (int i = 0; i < outputAmount; i++)
+            string inputLol = Console.ReadLine();
+
+            DateTime start_time;
+            TimeSpan elapsed;
+
+            start_time = DateTime.Now;
+
+            switch (inputLol)
             {
-                Random newRandom = new Random();
-                try
-                {
-                    int randomNumber = newRandom.Next(0, 100);
-
-                    if (randomNumber % 2 != 0)
-                    {
-
-                        evenNumList.Add(Convert.ToString(randomNumber));
-                    }
-                }
-                catch (DivideByZeroException)
-                {
-                    int randomNumber = newRandom.Next(0, 100);
-
-                    if (randomNumber % 2 != 0)
-                    {
-                        evenNumList.Add(Convert.ToString(randomNumber));
-                    }
-                }
+                case "hello world":
+                    Console.WriteLine("Hello world");
+                    elapsed = DateTime.Now - start_time;
+                    Console.WriteLine(elapsed.TotalSeconds.ToString() + " sec");
+                    break;
+                default:
+                    Console.WriteLine("Hello world");
+                    elapsed = DateTime.Now - start_time;
+                    Console.WriteLine(elapsed.TotalSeconds.ToString() + " sec");
+                    break;
             }
-
-            Console.WriteLine("All odd numbers are:");
-            for (int i = 0; i < evenNumList.Count; i++)
-            {
-                Console.WriteLine(evenNumList[i]);
-            }
-
-            Console.WriteLine("Largets odd number is: " + evenNumList.Max()); // Output the biggest number in our array (List)
         }
     }
 }
