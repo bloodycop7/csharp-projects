@@ -72,7 +72,7 @@ namespace HelloWorld
             int starCount = int.Parse(Console.ReadLine());
 
             Console.Write(new string('*', starCount));
-            Console.Write("\n");
+            Console.WriteLine("");
 
             for (int i = 0; i < (starCount - 2); i++)
             {
