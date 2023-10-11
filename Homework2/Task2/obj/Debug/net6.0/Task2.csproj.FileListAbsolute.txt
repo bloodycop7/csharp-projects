@@ -1,0 +1,14 @@
+D:\csharp-projects\Homework2\Task2\bin\Debug\net6.0\Task2.exe
+D:\csharp-projects\Homework2\Task2\bin\Debug\net6.0\Task2.deps.json
+D:\csharp-projects\Homework2\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+D:\csharp-projects\Homework2\Task2\bin\Debug\net6.0\Task2.dll
+D:\csharp-projects\Homework2\Task2\bin\Debug\net6.0\Task2.pdb
+D:\csharp-projects\Homework2\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\Homework2\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+D:\csharp-projects\Homework2\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+D:\csharp-projects\Homework2\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+D:\csharp-projects\Homework2\Task2\obj\Debug\net6.0\Task2.dll
+D:\csharp-projects\Homework2\Task2\obj\Debug\net6.0\refint\Task2.dll
+D:\csharp-projects\Homework2\Task2\obj\Debug\net6.0\Task2.pdb
+D:\csharp-projects\Homework2\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+D:\csharp-projects\Homework2\Task2\obj\Debug\net6.0\ref\Task2.dll
