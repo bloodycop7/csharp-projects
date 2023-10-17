@@ -10,6 +10,8 @@
             var town = Console.ReadLine();
 
             Console.WriteLine("Hello, I'm {0} {1}, I'm {2} years old and I live in {3}", fN, lN, age, town);
+
+            Console.ReadKey();
         }
     }
 }

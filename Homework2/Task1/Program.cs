@@ -9,6 +9,8 @@
             var area = a * a;
             Console.Write("Area = ");
             Console.WriteLine(area);
+
+            Console.ReadKey();
         }
     }
 }

@@ -9,6 +9,8 @@
             double deg = rad * 180 / Math.PI;
 
             Console.WriteLine("Degrees: {0}", Math.Round(deg));
+
+            Console.ReadKey();
         }
     }
 }

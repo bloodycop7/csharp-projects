@@ -10,6 +10,8 @@
 
             Console.Write("CM = ");
             Console.WriteLine(cm);
+
+            Console.ReadKey();
         }
     }
 }
