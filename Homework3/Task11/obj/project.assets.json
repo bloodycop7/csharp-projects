@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\csharp-projects\\Homework\\Task11\\Task11.csproj",
+      "projectUniqueName": "D:\\csharp-projects\\Homework3\\Task11\\Task11.csproj",
       "projectName": "Task11",
-      "projectPath": "D:\\csharp-projects\\Homework\\Task11\\Task11.csproj",
+      "projectPath": "D:\\csharp-projects\\Homework3\\Task11\\Task11.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\csharp-projects\\Homework\\Task11\\obj\\",
+      "outputPath": "D:\\csharp-projects\\Homework3\\Task11\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

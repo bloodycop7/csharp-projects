@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\csharp-projects\\Homework\\Task7\\Task7.csproj": {}
+    "D:\\csharp-projects\\Homework3\\Task7\\Task7.csproj": {}
   },
   "projects": {
-    "D:\\csharp-projects\\Homework\\Task7\\Task7.csproj": {
+    "D:\\csharp-projects\\Homework3\\Task7\\Task7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\csharp-projects\\Homework\\Task7\\Task7.csproj",
+        "projectUniqueName": "D:\\csharp-projects\\Homework3\\Task7\\Task7.csproj",
         "projectName": "Task7",
-        "projectPath": "D:\\csharp-projects\\Homework\\Task7\\Task7.csproj",
+        "projectPath": "D:\\csharp-projects\\Homework3\\Task7\\Task7.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\csharp-projects\\Homework\\Task7\\obj\\",
+        "outputPath": "D:\\csharp-projects\\Homework3\\Task7\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",

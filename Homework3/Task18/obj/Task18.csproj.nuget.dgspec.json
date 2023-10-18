@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\csharp-projects\\Homework\\Task18\\Task18.csproj": {}
+    "D:\\csharp-projects\\Homework3\\Task18\\Task18.csproj": {}
   },
   "projects": {
-    "D:\\csharp-projects\\Homework\\Task18\\Task18.csproj": {
+    "D:\\csharp-projects\\Homework3\\Task18\\Task18.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\csharp-projects\\Homework\\Task18\\Task18.csproj",
+        "projectUniqueName": "D:\\csharp-projects\\Homework3\\Task18\\Task18.csproj",
         "projectName": "Task18",
-        "projectPath": "D:\\csharp-projects\\Homework\\Task18\\Task18.csproj",
+        "projectPath": "D:\\csharp-projects\\Homework3\\Task18\\Task18.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\csharp-projects\\Homework\\Task18\\obj\\",
+        "outputPath": "D:\\csharp-projects\\Homework3\\Task18\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
