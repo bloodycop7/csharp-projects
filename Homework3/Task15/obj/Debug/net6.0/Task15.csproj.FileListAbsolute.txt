@@ -1,0 +1,14 @@
+D:\csharp-projects\Homework\Task15\bin\Debug\net6.0\Task15.exe
+D:\csharp-projects\Homework\Task15\bin\Debug\net6.0\Task15.deps.json
+D:\csharp-projects\Homework\Task15\bin\Debug\net6.0\Task15.runtimeconfig.json
+D:\csharp-projects\Homework\Task15\bin\Debug\net6.0\Task15.dll
+D:\csharp-projects\Homework\Task15\bin\Debug\net6.0\Task15.pdb
+D:\csharp-projects\Homework\Task15\obj\Debug\net6.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\Homework\Task15\obj\Debug\net6.0\Task15.AssemblyInfoInputs.cache
+D:\csharp-projects\Homework\Task15\obj\Debug\net6.0\Task15.AssemblyInfo.cs
+D:\csharp-projects\Homework\Task15\obj\Debug\net6.0\Task15.csproj.CoreCompileInputs.cache
+D:\csharp-projects\Homework\Task15\obj\Debug\net6.0\Task15.dll
+D:\csharp-projects\Homework\Task15\obj\Debug\net6.0\refint\Task15.dll
+D:\csharp-projects\Homework\Task15\obj\Debug\net6.0\Task15.pdb
+D:\csharp-projects\Homework\Task15\obj\Debug\net6.0\Task15.genruntimeconfig.cache
+D:\csharp-projects\Homework\Task15\obj\Debug\net6.0\ref\Task15.dll
