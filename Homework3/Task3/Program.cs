@@ -10,6 +10,8 @@
             double number = double.Parse(Console.ReadLine());
 
             Console.WriteLine("The square of your number is: {0}", (number * number));
+
+            Console.ReadKey();
         }
     }
 }
