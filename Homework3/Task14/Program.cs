@@ -16,6 +16,8 @@
             int left = fN - devided;
 
             Console.WriteLine("Output: {0} | {1}", devided, left);
+
+            Console.ReadKey();
         }
     }
 }
