@@ -16,6 +16,7 @@
             double width = double.Parse(Console.ReadLine());
 
             Console.WriteLine("Answer: {0}", (width * length));
+            Console.ReadKey();
         }
     }
 }
