@@ -16,6 +16,7 @@
             double tN = double.Parse(Console.ReadLine());
 
             Console.WriteLine("Answer: {0}", (fN + sN + tN) / 3);
+            Console.ReadKey();
         }
     }
 }
