@@ -21,6 +21,8 @@
             string fName = Console.ReadLine();
 
             Console.WriteLine(greetMessages[randomNum], fName);
+
+            Console.ReadKey();
         }
     }
 }
