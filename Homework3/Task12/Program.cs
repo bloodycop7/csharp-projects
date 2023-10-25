@@ -23,6 +23,8 @@
             {
                 Console.WriteLine("That number is not even!");
             }
+
+            Console.ReadKey();
         }
     }
 }
