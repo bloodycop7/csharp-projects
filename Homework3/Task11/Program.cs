@@ -16,6 +16,8 @@
             {
                 Console.WriteLine("You can do whatever you want honestly.");
             }
+
+            Console.ReadKey();
         }
     }
 }
