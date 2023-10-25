@@ -17,6 +17,8 @@
 
             Console.WriteLine("Total: {0}", (fN + sN + tN));
             Console.WriteLine("Average: {0}", (fN + sN + tN) / 3);
+
+            Console.ReadKey();
         }
     }
 }
