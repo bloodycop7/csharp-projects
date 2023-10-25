@@ -13,6 +13,8 @@
             double sN = double.Parse(Console.ReadLine());
 
             Console.WriteLine("Total: {0}", (fN + sN));
+
+            Console.ReadKey();
         }
     }
 }
