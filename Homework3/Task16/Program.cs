@@ -18,6 +18,8 @@ namespace Task16
             double[] numbers = {fN, sN}; // Outsmart :D
 
             Console.WriteLine(numbers.Max());
+
+            Console.ReadKey();
         }
     }
 }
