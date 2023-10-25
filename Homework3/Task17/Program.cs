@@ -19,6 +19,8 @@
             {
                 Console.WriteLine("Words are not the same.");
             }
+
+            Console.ReadKey();
         }
     }
 }
