@@ -9,6 +9,8 @@
             string word = Console.ReadLine();
 
             Console.WriteLine("Length: {0}", word.Length);
+
+            Console.ReadKey();
         }
     }
 }
