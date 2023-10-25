@@ -39,6 +39,8 @@
             string action = Console.ReadLine();
 
             Console.WriteLine("[Calculator] {0}", Calculator(action, fN, sN));
+
+            Console.ReadKey();
         }
     }
 }
