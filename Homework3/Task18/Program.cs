@@ -28,5 +28,7 @@
                 Console.WriteLine("Number is zero");
             }
         }
+
+        Console.ReadKey();
     }
 }
