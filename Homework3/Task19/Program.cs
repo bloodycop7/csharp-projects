@@ -19,6 +19,8 @@
             {
                 Console.WriteLine("Second word is not contained in first word.");
             }
+
+            Console.ReadKey();
         }
     }
 }
