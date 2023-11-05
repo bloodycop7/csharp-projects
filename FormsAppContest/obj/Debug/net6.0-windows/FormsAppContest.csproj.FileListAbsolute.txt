@@ -1,0 +1,16 @@
+D:\csharp-projects\FormsAppContest\bin\Debug\net6.0-windows\FormsAppContest.exe
+D:\csharp-projects\FormsAppContest\bin\Debug\net6.0-windows\FormsAppContest.deps.json
+D:\csharp-projects\FormsAppContest\bin\Debug\net6.0-windows\FormsAppContest.runtimeconfig.json
+D:\csharp-projects\FormsAppContest\bin\Debug\net6.0-windows\FormsAppContest.dll
+D:\csharp-projects\FormsAppContest\bin\Debug\net6.0-windows\FormsAppContest.pdb
+D:\csharp-projects\FormsAppContest\obj\Debug\net6.0-windows\FormsAppContest.Form1.resources
+D:\csharp-projects\FormsAppContest\obj\Debug\net6.0-windows\FormsAppContest.csproj.GenerateResource.cache
+D:\csharp-projects\FormsAppContest\obj\Debug\net6.0-windows\FormsAppContest.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\FormsAppContest\obj\Debug\net6.0-windows\FormsAppContest.AssemblyInfoInputs.cache
+D:\csharp-projects\FormsAppContest\obj\Debug\net6.0-windows\FormsAppContest.AssemblyInfo.cs
+D:\csharp-projects\FormsAppContest\obj\Debug\net6.0-windows\FormsAppContest.csproj.CoreCompileInputs.cache
+D:\csharp-projects\FormsAppContest\obj\Debug\net6.0-windows\FormsAppContest.dll
+D:\csharp-projects\FormsAppContest\obj\Debug\net6.0-windows\refint\FormsAppContest.dll
+D:\csharp-projects\FormsAppContest\obj\Debug\net6.0-windows\FormsAppContest.pdb
+D:\csharp-projects\FormsAppContest\obj\Debug\net6.0-windows\FormsAppContest.genruntimeconfig.cache
+D:\csharp-projects\FormsAppContest\obj\Debug\net6.0-windows\ref\FormsAppContest.dll
