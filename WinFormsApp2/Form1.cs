@@ -6,8 +6,8 @@ namespace WinFormsApp2
         {
             InitializeComponent();
 
-            homepage homePage = new homepage();
-            addUserControl(homePage);
+            homepage homePageLol = new homepage();
+            addUserControl(homePageLol);
         }
 
         private void addUserControl(UserControl userControl)
@@ -16,8 +16,6 @@ namespace WinFormsApp2
             topContainer.Controls.Clear();
             topContainer.Controls.Add(userControl);
             userControl.BringToFront();
-
-            button1.Text = "Was PRessed";
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -27,8 +25,8 @@ namespace WinFormsApp2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            homepage homePage = new homepage();
-            addUserControl(homePage);
+            homepage homePageLol = new homepage();
+            addUserControl(homePageLol);
 
         }
 
@@ -38,8 +36,8 @@ namespace WinFormsApp2
 
         private void button3_Click(object sender, EventArgs e)
         {
-            creditspage creditsPage = new creditspage();
-            addUserControl(creditsPage);
+            creditspage creditsPageLol = new creditspage();
+            addUserControl(creditsPageLol);
         }
 
         private void panelContainer_Paint(object sender, PaintEventArgs e)
