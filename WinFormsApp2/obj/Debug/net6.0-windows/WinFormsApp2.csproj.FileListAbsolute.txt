@@ -16,3 +16,4 @@ D:\csharp-projects\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
 D:\csharp-projects\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
 D:\csharp-projects\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
 D:\csharp-projects\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
+D:\csharp-projects\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.settingspage.resources

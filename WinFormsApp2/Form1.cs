@@ -32,6 +32,8 @@ namespace WinFormsApp2
 
         private void button2_Click(object sender, EventArgs e)
         {
+            settingspage settingsPageLol = new settingspage();
+            addUserControl(settingsPageLol);
         }
 
         private void button3_Click(object sender, EventArgs e)

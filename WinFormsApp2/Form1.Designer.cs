@@ -89,7 +89,7 @@
             // 
             // topContainer
             // 
-            topContainer.BackColor = SystemColors.ButtonShadow;
+            topContainer.BackColor = Color.Transparent;
             topContainer.Dock = DockStyle.Fill;
             topContainer.ForeColor = SystemColors.ControlText;
             topContainer.Location = new Point(0, 40);
