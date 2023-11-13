@@ -23,11 +23,13 @@ namespace WinFormsApp2
             if (checkBox_darkMode.Checked) // Turn on dark mode.
             {
                 settingsLabel.ForeColor = Color.White;
+                toggleDMLabel.ForeColor = Color.White;
                 BackColor = Color.Black;
             }
             else
             {
                 settingsLabel.ForeColor = Color.Black;
+                toggleDMLabel.ForeColor = Color.Black;
                 BackColor = Color.White;
             }
         }
