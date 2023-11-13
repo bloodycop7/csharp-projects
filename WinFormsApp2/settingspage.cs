@@ -18,16 +18,16 @@ namespace WinFormsApp2
         }
 
         // TODO: Make the value save and be accessable everywhere OR store the value (somehow).
-        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        private void checkBox_darkMode_CheckedChanged(object sender, EventArgs e)
         {
-            if ( checkBox1.Checked ) // Turn on dark mode.
+            if (checkBox_darkMode.Checked) // Turn on dark mode.
             {
-                label1.ForeColor = Color.White;
+                settingsLabel.ForeColor = Color.White;
                 BackColor = Color.Black;
             }
             else
             {
-                label1.ForeColor = Color.Black;
+                settingsLabel.ForeColor = Color.Black;
                 BackColor = Color.White;
             }
         }

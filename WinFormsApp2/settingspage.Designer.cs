@@ -28,49 +28,49 @@
         /// </summary>
         private void InitializeComponent()
         {
-            label1 = new Label();
-            label2 = new Label();
-            checkBox1 = new CheckBox();
+            settingsLabel = new Label();
+            toggleDMLabel = new Label();
+            checkBox_darkMode = new CheckBox();
             SuspendLayout();
             // 
-            // label1
+            // settingsLabel
             // 
-            label1.AutoSize = true;
-            label1.Font = new Font("Century Gothic", 24F, FontStyle.Regular, GraphicsUnit.Point);
-            label1.Location = new Point(328, 11);
-            label1.Name = "label1";
-            label1.Size = new Size(135, 39);
-            label1.TabIndex = 0;
-            label1.Text = "Settings";
+            settingsLabel.AutoSize = true;
+            settingsLabel.Font = new Font("Century Gothic", 24F, FontStyle.Regular, GraphicsUnit.Point);
+            settingsLabel.Location = new Point(328, 11);
+            settingsLabel.Name = "settingsLabel";
+            settingsLabel.Size = new Size(135, 39);
+            settingsLabel.TabIndex = 0;
+            settingsLabel.Text = "Settings";
             // 
-            // label2
+            // toggleDMLabel
             // 
-            label2.AutoSize = true;
-            label2.Font = new Font("Century Gothic", 16F, FontStyle.Regular, GraphicsUnit.Point);
-            label2.Location = new Point(0, 81);
-            label2.Name = "label2";
-            label2.Size = new Size(214, 25);
-            label2.TabIndex = 1;
-            label2.Text = "Toggle Dark Mode";
+            toggleDMLabel.AutoSize = true;
+            toggleDMLabel.Font = new Font("Century Gothic", 16F, FontStyle.Regular, GraphicsUnit.Point);
+            toggleDMLabel.Location = new Point(0, 81);
+            toggleDMLabel.Name = "toggleDMLabel";
+            toggleDMLabel.Size = new Size(214, 25);
+            toggleDMLabel.TabIndex = 1;
+            toggleDMLabel.Text = "Toggle Dark Mode";
             // 
-            // checkBox1
+            // checkBox_darkMode
             // 
-            checkBox1.AutoSize = true;
-            checkBox1.Location = new Point(220, 90);
-            checkBox1.Name = "checkBox1";
-            checkBox1.Size = new Size(15, 14);
-            checkBox1.TabIndex = 2;
-            checkBox1.TextImageRelation = TextImageRelation.ImageBeforeText;
-            checkBox1.UseVisualStyleBackColor = true;
-            checkBox1.CheckedChanged += checkBox1_CheckedChanged;
+            checkBox_darkMode.AutoSize = true;
+            checkBox_darkMode.Location = new Point(220, 90);
+            checkBox_darkMode.Name = "checkBox_darkMode";
+            checkBox_darkMode.Size = new Size(15, 14);
+            checkBox_darkMode.TabIndex = 2;
+            checkBox_darkMode.TextImageRelation = TextImageRelation.ImageBeforeText;
+            checkBox_darkMode.UseVisualStyleBackColor = true;
+            checkBox_darkMode.CheckedChanged += checkBox_darkMode_CheckedChanged;
             // 
             // settingspage
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            Controls.Add(checkBox1);
-            Controls.Add(label2);
-            Controls.Add(label1);
+            Controls.Add(checkBox_darkMode);
+            Controls.Add(toggleDMLabel);
+            Controls.Add(settingsLabel);
             Name = "settingspage";
             Size = new Size(791, 410);
             ResumeLayout(false);
@@ -79,8 +79,8 @@
 
         #endregion
 
-        public Label label1;
-        public Label label2;
-        public CheckBox checkBox1;
+        public Label settingsLabel;
+        public Label toggleDMLabel;
+        public CheckBox checkBox_darkMode;
     }
 }
