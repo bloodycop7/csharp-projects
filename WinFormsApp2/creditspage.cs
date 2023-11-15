@@ -20,11 +20,8 @@ namespace WinFormsApp2
 
         private void credit_eon_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            Process openURLProccess = new Process();
-            openURLProccess.StartInfo.UseShellExecute = true;
-            openURLProccess.StartInfo.FileName = "opera";
-            openURLProccess.StartInfo.Arguments = "https://github.com/bloodycop7";
-            openURLProccess.Start();
+            ProcessStartInfo sInfo = new ProcessStartInfo("explorer", "https://github.com/bloodycop7");
+            Process.Start(sInfo);
         }
     }
 }
