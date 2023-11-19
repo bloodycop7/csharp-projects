@@ -7,19 +7,6 @@ namespace WinFormsApp2
         public Form1()
         {
             InitializeComponent();
-
-            /*string dir = @"D:\csharp-projects\settings.xml";
-            FileStream fs = new FileStream(dir, FileMode.Create);
-
-            if ( !File.Exists(dir) )
-            {
-                FileStream file = new FileStream(dir, FileMode.Create);
-                
-                StreamWriter writer = new StreamWriter(file);
-                writer.Write("");
-                writer.Close();
-            }*/
-
                 
             homepage homePageLol = new homepage();
             addUserControl(homePageLol);
