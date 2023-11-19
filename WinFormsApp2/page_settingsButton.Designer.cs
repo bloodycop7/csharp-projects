@@ -1,6 +1,6 @@
 ﻿namespace WinFormsApp2
 {
-    partial class settingspage
+    partial class page_settingsButton
     {
         /// <summary> 
         /// Required designer variable.

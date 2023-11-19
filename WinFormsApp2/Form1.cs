@@ -10,7 +10,7 @@ namespace WinFormsApp2
             
             Controller.ThemeChange();
 
-            homepage homePageLol = new homepage();
+            page_homeButton homePageLol = new page_homeButton();
             addUserControl(homePageLol);
         }
 
@@ -29,19 +29,19 @@ namespace WinFormsApp2
 
         private void button1_Click(object sender, EventArgs e)
         {
-            homepage homePageLol = new homepage();
+            page_homeButton homePageLol = new page_homeButton();
             addUserControl(homePageLol);
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            settingspage settingsPageLol = new settingspage();
+            page_settingsButton settingsPageLol = new page_settingsButton();
             addUserControl(settingsPageLol);
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            creditspage creditsPageLol = new creditspage();
+            page_creditsButton creditsPageLol = new page_creditsButton();
             addUserControl(creditsPageLol);
         }
 

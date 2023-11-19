@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             panel1 = new Panel();
-            button3 = new Button();
-            button2 = new Button();
-            button1 = new Button();
+            page_creditsButton = new Button();
+            page_settingsButton = new Button();
+            page_homeButton = new Button();
             topContainer = new Panel();
             panel1.SuspendLayout();
             SuspendLayout();
@@ -39,53 +39,53 @@
             // panel1
             // 
             panel1.BackColor = Color.White;
-            panel1.Controls.Add(button3);
-            panel1.Controls.Add(button2);
-            panel1.Controls.Add(button1);
+            panel1.Controls.Add(page_creditsButton);
+            panel1.Controls.Add(page_settingsButton);
+            panel1.Controls.Add(page_homeButton);
             panel1.Dock = DockStyle.Top;
             panel1.Location = new Point(0, 0);
             panel1.Name = "panel1";
             panel1.Size = new Size(791, 40);
             panel1.TabIndex = 0;
             // 
-            // button3
+            // page_creditsButton
             // 
-            button3.Dock = DockStyle.Left;
-            button3.Font = new Font("Century Gothic", 20F, FontStyle.Regular, GraphicsUnit.Point);
-            button3.Location = new Point(520, 0);
-            button3.Margin = new Padding(0);
-            button3.Name = "button3";
-            button3.Size = new Size(271, 40);
-            button3.TabIndex = 3;
-            button3.Text = "Credits";
-            button3.UseVisualStyleBackColor = true;
-            button3.Click += button3_Click;
+            page_creditsButton.Dock = DockStyle.Left;
+            page_creditsButton.Font = new Font("Century Gothic", 20F, FontStyle.Regular, GraphicsUnit.Point);
+            page_creditsButton.Location = new Point(520, 0);
+            page_creditsButton.Margin = new Padding(0);
+            page_creditsButton.Name = "page_creditsButton";
+            page_creditsButton.Size = new Size(271, 40);
+            page_creditsButton.TabIndex = 3;
+            page_creditsButton.Text = "Credits";
+            page_creditsButton.UseVisualStyleBackColor = true;
+            page_creditsButton.Click += button3_Click;
             // 
-            // button2
+            // page_settingsButton
             // 
-            button2.Dock = DockStyle.Left;
-            button2.Font = new Font("Century Gothic", 20F, FontStyle.Regular, GraphicsUnit.Point);
-            button2.Location = new Point(260, 0);
-            button2.Margin = new Padding(0);
-            button2.Name = "button2";
-            button2.Size = new Size(260, 40);
-            button2.TabIndex = 2;
-            button2.Text = "Settings";
-            button2.UseVisualStyleBackColor = true;
-            button2.Click += button2_Click;
+            page_settingsButton.Dock = DockStyle.Left;
+            page_settingsButton.Font = new Font("Century Gothic", 20F, FontStyle.Regular, GraphicsUnit.Point);
+            page_settingsButton.Location = new Point(260, 0);
+            page_settingsButton.Margin = new Padding(0);
+            page_settingsButton.Name = "page_settingsButton";
+            page_settingsButton.Size = new Size(260, 40);
+            page_settingsButton.TabIndex = 2;
+            page_settingsButton.Text = "Settings";
+            page_settingsButton.UseVisualStyleBackColor = true;
+            page_settingsButton.Click += button2_Click;
             // 
-            // button1
+            // page_homeButton
             // 
-            button1.Dock = DockStyle.Left;
-            button1.Font = new Font("Century Gothic", 20F, FontStyle.Regular, GraphicsUnit.Point);
-            button1.Location = new Point(0, 0);
-            button1.Margin = new Padding(0);
-            button1.Name = "button1";
-            button1.Size = new Size(260, 40);
-            button1.TabIndex = 1;
-            button1.Text = "Home";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            page_homeButton.Dock = DockStyle.Left;
+            page_homeButton.Font = new Font("Century Gothic", 20F, FontStyle.Regular, GraphicsUnit.Point);
+            page_homeButton.Location = new Point(0, 0);
+            page_homeButton.Margin = new Padding(0);
+            page_homeButton.Name = "page_homeButton";
+            page_homeButton.Size = new Size(260, 40);
+            page_homeButton.TabIndex = 1;
+            page_homeButton.Text = "Home";
+            page_homeButton.UseVisualStyleBackColor = true;
+            page_homeButton.Click += button1_Click;
             // 
             // topContainer
             // 
@@ -123,5 +123,8 @@
         private Button button2;
         private Button button1;
         private Panel topContainer;
+        private Button page_creditsButton;
+        private Button page_settingsButton;
+        private Button page_homeButton;
     }
 }
