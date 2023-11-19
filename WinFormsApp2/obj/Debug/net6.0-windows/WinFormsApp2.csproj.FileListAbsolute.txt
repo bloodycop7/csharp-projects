@@ -20,3 +20,10 @@ D:\csharp-projects\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.settingspa
 D:\csharp-projects\WinFormsApp2\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
 D:\csharp-projects\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
 D:\csharp-projects\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CopyComplete
+D:\csharp-projects\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.sourcelink.json
+D:\csharp-projects\WinFormsApp2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\csharp-projects\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\csharp-projects\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\csharp-projects\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\csharp-projects\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\csharp-projects\WinFormsApp2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

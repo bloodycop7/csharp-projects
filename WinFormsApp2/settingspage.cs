@@ -20,9 +20,7 @@ namespace WinFormsApp2
         // TODO: Make the value save and be accessable everywhere OR store the value (somehow).
         private void checkBox_darkMode_CheckedChanged(object sender, EventArgs e)
         {
-            Controller.ThemeChange(checkBox_darkMode.Checked);
 
-            checkBox_darkMode.Checked = Controller.GetSetting(bool.Parse("darkTheme"));
         }
     }
 }

@@ -7,7 +7,9 @@ namespace WinFormsApp2
         public Form1()
         {
             InitializeComponent();
-                
+            
+            Controller.ThemeChange();
+
             homepage homePageLol = new homepage();
             addUserControl(homePageLol);
         }
