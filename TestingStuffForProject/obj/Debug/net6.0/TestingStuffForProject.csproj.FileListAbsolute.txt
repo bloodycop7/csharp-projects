@@ -1,0 +1,17 @@
+D:\csharp-projects\TestingStuffForProject\bin\Debug\net6.0\TestingStuffForProject.exe
+D:\csharp-projects\TestingStuffForProject\bin\Debug\net6.0\TestingStuffForProject.deps.json
+D:\csharp-projects\TestingStuffForProject\bin\Debug\net6.0\TestingStuffForProject.runtimeconfig.json
+D:\csharp-projects\TestingStuffForProject\bin\Debug\net6.0\TestingStuffForProject.dll
+D:\csharp-projects\TestingStuffForProject\bin\Debug\net6.0\TestingStuffForProject.pdb
+D:\csharp-projects\TestingStuffForProject\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\csharp-projects\TestingStuffForProject\obj\Debug\net6.0\TestingStuffForProject.csproj.AssemblyReference.cache
+D:\csharp-projects\TestingStuffForProject\obj\Debug\net6.0\TestingStuffForProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\TestingStuffForProject\obj\Debug\net6.0\TestingStuffForProject.AssemblyInfoInputs.cache
+D:\csharp-projects\TestingStuffForProject\obj\Debug\net6.0\TestingStuffForProject.AssemblyInfo.cs
+D:\csharp-projects\TestingStuffForProject\obj\Debug\net6.0\TestingStuffForProject.csproj.CoreCompileInputs.cache
+D:\csharp-projects\TestingStuffForProject\obj\Debug\net6.0\TestingStuffForProject.csproj.CopyComplete
+D:\csharp-projects\TestingStuffForProject\obj\Debug\net6.0\TestingStuffForProject.dll
+D:\csharp-projects\TestingStuffForProject\obj\Debug\net6.0\refint\TestingStuffForProject.dll
+D:\csharp-projects\TestingStuffForProject\obj\Debug\net6.0\TestingStuffForProject.pdb
+D:\csharp-projects\TestingStuffForProject\obj\Debug\net6.0\TestingStuffForProject.genruntimeconfig.cache
+D:\csharp-projects\TestingStuffForProject\obj\Debug\net6.0\ref\TestingStuffForProject.dll

@@ -7,14 +7,28 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Text.Json;
+using System.Security.Cryptography.X509Certificates;
 
 namespace WinFormsApp2
 {
+    
+
     public partial class homepage : UserControl
     {
         public homepage()
         {
             InitializeComponent();
+
+            Dictionary<string, string> dic = new Dictionary<string, string>();
+            dic.Add("lang", "eng");
+            dic.Add("darkTheme", "1");
+
+            string json = JsonSerializer.Serialize(dic);
+
+            StreamWriter file = new StreamWriter("C:\\Users\\User\\AppData\\Roaming\\eontest.json");
+            file.Write(json);
+            file.Close();
         }
     }
 }
