@@ -1,6 +1,6 @@
 ﻿namespace WinFormsApp2
 {
-    partial class creditspage
+    partial class page_creditsButton
     {
         /// <summary> 
         /// Required designer variable.

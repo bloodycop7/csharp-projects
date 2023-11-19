@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace WinFormsApp2
 {
-    public partial class creditspage : UserControl
+    public partial class page_creditsButton : UserControl
     {
-        public creditspage()
+        public page_creditsButton()
         {
             InitializeComponent();
         }

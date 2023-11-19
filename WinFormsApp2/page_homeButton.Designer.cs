@@ -1,6 +1,6 @@
 ﻿namespace WinFormsApp2
 {
-    partial class homepage
+    partial class page_homeButton
     {
         /// <summary> 
         /// Required designer variable.

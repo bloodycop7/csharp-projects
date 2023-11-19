@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WinFormsApp2
 {
-    public partial class settingspage : UserControl
+    public partial class page_settingsButton : UserControl
     {
-        public settingspage()
+        public page_settingsButton()
         {
             InitializeComponent();
         }

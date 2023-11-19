@@ -14,9 +14,9 @@ namespace WinFormsApp2
 {
     
 
-    public partial class homepage : UserControl
+    public partial class page_homeButton : UserControl
     {
-        public homepage()
+        public page_homeButton()
         {
             InitializeComponent();
 
