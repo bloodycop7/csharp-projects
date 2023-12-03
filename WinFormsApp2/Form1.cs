@@ -1,3 +1,5 @@
+using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 
 namespace WinFormsApp2
@@ -8,8 +10,6 @@ namespace WinFormsApp2
         {
             InitializeComponent();
             
-            Controller.ThemeChange();
-
             page_homeButton homePageLol = new page_homeButton();
             addUserControl(homePageLol);
         }

@@ -1,0 +1,15 @@
+D:\csharp-projects\AnotherHomework\Task2\bin\Debug\net8.0\Task2.exe
+D:\csharp-projects\AnotherHomework\Task2\bin\Debug\net8.0\Task2.deps.json
+D:\csharp-projects\AnotherHomework\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+D:\csharp-projects\AnotherHomework\Task2\bin\Debug\net8.0\Task2.dll
+D:\csharp-projects\AnotherHomework\Task2\bin\Debug\net8.0\Task2.pdb
+D:\csharp-projects\AnotherHomework\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\AnotherHomework\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+D:\csharp-projects\AnotherHomework\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+D:\csharp-projects\AnotherHomework\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+D:\csharp-projects\AnotherHomework\Task2\obj\Debug\net8.0\Task2.sourcelink.json
+D:\csharp-projects\AnotherHomework\Task2\obj\Debug\net8.0\Task2.dll
+D:\csharp-projects\AnotherHomework\Task2\obj\Debug\net8.0\refint\Task2.dll
+D:\csharp-projects\AnotherHomework\Task2\obj\Debug\net8.0\Task2.pdb
+D:\csharp-projects\AnotherHomework\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+D:\csharp-projects\AnotherHomework\Task2\obj\Debug\net8.0\ref\Task2.dll

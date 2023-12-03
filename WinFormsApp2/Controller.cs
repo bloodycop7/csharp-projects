@@ -15,7 +15,7 @@ namespace WinFormsApp2
     {
         public string? lang { get; set; }
         public string? darkTheme { get; set; }
-        public static string[]  ThemeChange()
+        public static string[] ThemeChange()
         {
             using (SqlConnection connection = new SqlConnection(Program.con))
             {
@@ -43,6 +43,11 @@ namespace WinFormsApp2
                 
                 return settings;                 
             }
+        }
+        string[] Sentences = {};
+        public static string[] AddQuestion(string question, string correctA, string wrongA1, string wrongA2)
+        {
+            return null;
         }
     }
 }

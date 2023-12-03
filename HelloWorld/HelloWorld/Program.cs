@@ -5,82 +5,11 @@ namespace HelloWorld
 {
     internal class Program
     {
-
-        /* Обяснения
-            - Task 1:
-                - int outputVar = variable -- Регистрира нов variable с value (3522 + 52353) * 23 - (2336 * 501 + 23432 - 6743) * 3
-
-                - Console.WriteLine(outputVar) -- Принтира на нов ред регистрирания int variable
-            - Task 2:
-                for (int i = 1; i < 21;  i++) - Започва ново повторение което се повторя докато числото не стига до 20
-
-                Console.WriteLine(i) - Принтира на нов ред числото което е на ред в повторението
-
-        */
         static void Main(string[] args)
         {
-            /* Task 1
-            double outputVar = (3522 + 52353) * 23 - (2336 * 501 + 23432 - 6743) * 3;
-            Console.WriteLine(outputVar); // Gotta make it look clean :D
+            int inputNumber = int.Parse(Console.ReadLine());
 
-            Console.ReadKey();*/
-
-            /* Task 2
-            // Мързи ме да пиша WriteLine от 1 до 20
-
-            for (int i = 1; i < 21;  i++) // for loop - повтаря едно и също действие докато числото не стигне 21 (20)
-            {
-                Console.WriteLine(i);
-            }
-            */
-
-
-            /* Task 3
-            int increasedStars = 0;
-
-            for (int i = 0; i < 10; i++)
-            {
-
-                for (int i2 = 0; i2 < increasedStars; i2++)
-                {
-                    Console.Write(".");
-                }
-
-                Console.WriteLine(".");
-
-                increasedStars++;
-            }
-
-            */
-            
-            /* Task 4
-
-            decimal a = decimal.Parse(Console.ReadLine());
-            decimal b = decimal.Parse(Console.ReadLine());
-
-            Console.WriteLine("\n-------------------\n");
-
-            Console.WriteLine("A | B | Area");
-            Console.Write(a + " | " + b + " | " + (a * b));
-
-            */
-            
-            /* Task 5
-                // This is probably the most annoying thing I have EVER done.
-                // 9:56 PM: I'm going insane.
-
-            int starCount = int.Parse(Console.ReadLine());
-
-            Console.Write(new string('*', starCount));
-            Console.WriteLine("");
-
-            for (int i = 0; i < (starCount - 2); i++)
-            {
-                Console.Write("*" + new string(' ', (starCount - 2)) + "*\n");
-            }
-
-            Console.WriteLine(new string('*', starCount));
-            */
+            Console.WriteLine($"{(inputNumber < 2 ? 1 : 3)}");
 
             Console.ReadKey();
         }
