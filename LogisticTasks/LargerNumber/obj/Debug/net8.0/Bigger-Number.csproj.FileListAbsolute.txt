@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\LogisticTasks\LargerNumber\bin\Debug\net8.0\Bigger-Number.exe
+C:\Users\User\source\repos\LogisticTasks\LargerNumber\bin\Debug\net8.0\Bigger-Number.deps.json
+C:\Users\User\source\repos\LogisticTasks\LargerNumber\bin\Debug\net8.0\Bigger-Number.runtimeconfig.json
+C:\Users\User\source\repos\LogisticTasks\LargerNumber\bin\Debug\net8.0\Bigger-Number.dll
+C:\Users\User\source\repos\LogisticTasks\LargerNumber\bin\Debug\net8.0\Bigger-Number.pdb
+C:\Users\User\source\repos\LogisticTasks\LargerNumber\obj\Debug\net8.0\Bigger-Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\LogisticTasks\LargerNumber\obj\Debug\net8.0\Bigger-Number.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\LogisticTasks\LargerNumber\obj\Debug\net8.0\Bigger-Number.AssemblyInfo.cs
+C:\Users\User\source\repos\LogisticTasks\LargerNumber\obj\Debug\net8.0\Bigger-Number.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\LogisticTasks\LargerNumber\obj\Debug\net8.0\Bigger-Number.dll
+C:\Users\User\source\repos\LogisticTasks\LargerNumber\obj\Debug\net8.0\refint\Bigger-Number.dll
+C:\Users\User\source\repos\LogisticTasks\LargerNumber\obj\Debug\net8.0\Bigger-Number.pdb
+C:\Users\User\source\repos\LogisticTasks\LargerNumber\obj\Debug\net8.0\Bigger-Number.genruntimeconfig.cache
+C:\Users\User\source\repos\LogisticTasks\LargerNumber\obj\Debug\net8.0\ref\Bigger-Number.dll
