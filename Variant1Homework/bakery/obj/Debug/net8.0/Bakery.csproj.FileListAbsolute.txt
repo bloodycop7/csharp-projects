@@ -1,0 +1,15 @@
+D:\csharp-projects\Variant1Homework\bakery\bin\Debug\net8.0\Bakery.exe
+D:\csharp-projects\Variant1Homework\bakery\bin\Debug\net8.0\Bakery.deps.json
+D:\csharp-projects\Variant1Homework\bakery\bin\Debug\net8.0\Bakery.runtimeconfig.json
+D:\csharp-projects\Variant1Homework\bakery\bin\Debug\net8.0\Bakery.dll
+D:\csharp-projects\Variant1Homework\bakery\bin\Debug\net8.0\Bakery.pdb
+D:\csharp-projects\Variant1Homework\bakery\obj\Debug\net8.0\Bakery.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\Variant1Homework\bakery\obj\Debug\net8.0\Bakery.AssemblyInfoInputs.cache
+D:\csharp-projects\Variant1Homework\bakery\obj\Debug\net8.0\Bakery.AssemblyInfo.cs
+D:\csharp-projects\Variant1Homework\bakery\obj\Debug\net8.0\Bakery.csproj.CoreCompileInputs.cache
+D:\csharp-projects\Variant1Homework\bakery\obj\Debug\net8.0\Bakery.sourcelink.json
+D:\csharp-projects\Variant1Homework\bakery\obj\Debug\net8.0\Bakery.dll
+D:\csharp-projects\Variant1Homework\bakery\obj\Debug\net8.0\refint\Bakery.dll
+D:\csharp-projects\Variant1Homework\bakery\obj\Debug\net8.0\Bakery.pdb
+D:\csharp-projects\Variant1Homework\bakery\obj\Debug\net8.0\Bakery.genruntimeconfig.cache
+D:\csharp-projects\Variant1Homework\bakery\obj\Debug\net8.0\ref\Bakery.dll

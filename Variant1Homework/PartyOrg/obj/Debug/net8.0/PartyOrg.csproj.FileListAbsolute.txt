@@ -1,0 +1,15 @@
+D:\csharp-projects\Variant1Homework\PartyOrg\bin\Debug\net8.0\PartyOrg.exe
+D:\csharp-projects\Variant1Homework\PartyOrg\bin\Debug\net8.0\PartyOrg.deps.json
+D:\csharp-projects\Variant1Homework\PartyOrg\bin\Debug\net8.0\PartyOrg.runtimeconfig.json
+D:\csharp-projects\Variant1Homework\PartyOrg\bin\Debug\net8.0\PartyOrg.dll
+D:\csharp-projects\Variant1Homework\PartyOrg\bin\Debug\net8.0\PartyOrg.pdb
+D:\csharp-projects\Variant1Homework\PartyOrg\obj\Debug\net8.0\PartyOrg.GeneratedMSBuildEditorConfig.editorconfig
+D:\csharp-projects\Variant1Homework\PartyOrg\obj\Debug\net8.0\PartyOrg.AssemblyInfoInputs.cache
+D:\csharp-projects\Variant1Homework\PartyOrg\obj\Debug\net8.0\PartyOrg.AssemblyInfo.cs
+D:\csharp-projects\Variant1Homework\PartyOrg\obj\Debug\net8.0\PartyOrg.csproj.CoreCompileInputs.cache
+D:\csharp-projects\Variant1Homework\PartyOrg\obj\Debug\net8.0\PartyOrg.sourcelink.json
+D:\csharp-projects\Variant1Homework\PartyOrg\obj\Debug\net8.0\PartyOrg.dll
+D:\csharp-projects\Variant1Homework\PartyOrg\obj\Debug\net8.0\refint\PartyOrg.dll
+D:\csharp-projects\Variant1Homework\PartyOrg\obj\Debug\net8.0\PartyOrg.pdb
+D:\csharp-projects\Variant1Homework\PartyOrg\obj\Debug\net8.0\PartyOrg.genruntimeconfig.cache
+D:\csharp-projects\Variant1Homework\PartyOrg\obj\Debug\net8.0\ref\PartyOrg.dll
