@@ -32,13 +32,6 @@ namespace WinFormsApp2
             page_homeButton homePageLol = new page_homeButton();
             addUserControl(homePageLol);
         }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            page_settingsButton settingsPageLol = new page_settingsButton();
-            addUserControl(settingsPageLol);
-        }
-
         private void button3_Click(object sender, EventArgs e)
         {
             page_creditsButton creditsPageLol = new page_creditsButton();

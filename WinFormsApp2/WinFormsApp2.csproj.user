@@ -10,8 +10,5 @@
     <Compile Update="page_homeButton.cs">
       <SubType>UserControl</SubType>
     </Compile>
-    <Compile Update="page_settingsButton.cs">
-      <SubType>UserControl</SubType>
-    </Compile>
   </ItemGroup>
 </Project>
