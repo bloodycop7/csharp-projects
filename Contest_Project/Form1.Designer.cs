@@ -44,13 +44,14 @@
             container_left.Dock = DockStyle.Left;
             container_left.Location = new Point(0, 0);
             container_left.Name = "container_left";
-            container_left.Size = new Size(85, 450);
+            container_left.Size = new Size(90, 450);
             container_left.TabIndex = 0;
             container_left.Paint +=  container_left_Paint ;
             // 
             // container_left_button_credits
             // 
             container_left_button_credits.AutoSize = true;
+            container_left_button_credits.AutoSizeMode = AutoSizeMode.GrowAndShrink;
             container_left_button_credits.BackColor = SystemColors.ControlDark;
             container_left_button_credits.Dock = DockStyle.Top;
             container_left_button_credits.Font = new Font("Cairo", 15.7499981F, FontStyle.Regular, GraphicsUnit.Point,  0);
@@ -58,7 +59,7 @@
             container_left_button_credits.Margin = new Padding(0);
             container_left_button_credits.Name = "container_left_button_credits";
             container_left_button_credits.Padding = new Padding(1);
-            container_left_button_credits.Size = new Size(85, 52);
+            container_left_button_credits.Size = new Size(90, 52);
             container_left_button_credits.TabIndex = 2;
             container_left_button_credits.Text = "Credits";
             container_left_button_credits.UseVisualStyleBackColor = false;
@@ -72,7 +73,7 @@
             container_left_button_home.Location = new Point(0, 0);
             container_left_button_home.Margin = new Padding(0);
             container_left_button_home.Name = "container_left_button_home";
-            container_left_button_home.Size = new Size(85, 50);
+            container_left_button_home.Size = new Size(90, 50);
             container_left_button_home.TabIndex = 1;
             container_left_button_home.Text = "Home";
             container_left_button_home.UseVisualStyleBackColor = false;
@@ -90,10 +91,11 @@
             // container_main
             // 
             container_main.Dock = DockStyle.Fill;
-            container_main.Location = new Point(85, 0);
+            container_main.Location = new Point(90, 0);
             container_main.Name = "container_main";
-            container_main.Size = new Size(715, 450);
+            container_main.Size = new Size(710, 450);
             container_main.TabIndex = 2;
+            container_main.Paint +=  container_main_Paint ;
             // 
             // parent_panel
             // 

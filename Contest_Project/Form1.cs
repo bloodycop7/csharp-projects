@@ -28,5 +28,10 @@ namespace Contest_Project
             page_home homePage = new page_home();
             setUserPanel(homePage);
         }
+
+        private void container_main_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
