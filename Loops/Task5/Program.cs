@@ -17,7 +17,7 @@
                 list.Add(double.Parse(Console.ReadLine()));
             }
 
-            Console.WriteLine(list.Max());
+            Console.WriteLine(list.Min());
         }
     }
 }
