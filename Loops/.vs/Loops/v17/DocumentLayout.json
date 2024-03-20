@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Github Repositories\\csharp-projects\\Loops\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C3DCDF5-42FD-4715-99CD-008EFF45FF4D}|Task7\\Task7.csproj|c:\\github repositories\\csharp-projects\\loops\\task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C3DCDF5-42FD-4715-99CD-008EFF45FF4D}|Task7\\Task7.csproj|solutionrelative:task7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D56FDEC5-45F9-4D20-9576-E92404F43433}|Task6\\Task6.csproj|c:\\github repositories\\csharp-projects\\loops\\task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D56FDEC5-45F9-4D20-9576-E92404F43433}|Task6\\Task6.csproj|solutionrelative:task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -44,31 +48,43 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Github Repositories\\csharp-projects\\Loops\\Task7\\Program.cs",
+              "RelativeDocumentMoniker": "Task7\\Program.cs",
+              "ToolTip": "C:\\Github Repositories\\csharp-projects\\Loops\\Task7\\Program.cs",
+              "RelativeToolTip": "Task7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T21:29:22.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github Repositories\\csharp-projects\\Loops\\Task6\\Program.cs",
               "RelativeDocumentMoniker": "Task6\\Program.cs",
               "ToolTip": "C:\\Github Repositories\\csharp-projects\\Loops\\Task6\\Program.cs",
               "RelativeToolTip": "Task6\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-17T18:46:49.416Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Task4",
+              "DocumentIndex": 4,
+              "Title": "Task4.csproj",
               "DocumentMoniker": "C:\\Github Repositories\\csharp-projects\\Loops\\Task4\\Task4.csproj",
               "RelativeDocumentMoniker": "Task4\\Task4.csproj",
               "ToolTip": "C:\\Github Repositories\\csharp-projects\\Loops\\Task4\\Task4.csproj",
               "RelativeToolTip": "Task4\\Task4.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-17T18:43:55.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T18:43:55.472Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github Repositories\\csharp-projects\\Loops\\Task5\\Program.cs",
               "RelativeDocumentMoniker": "Task5\\Program.cs",
@@ -76,12 +92,11 @@
               "RelativeToolTip": "Task5\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T20:15:37.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T20:15:37.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github Repositories\\csharp-projects\\Loops\\Task4\\Program.cs",
               "RelativeDocumentMoniker": "Task4\\Program.cs",
@@ -89,12 +104,11 @@
               "RelativeToolTip": "Task4\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvxMAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T20:14:59.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T20:14:59.917Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github Repositories\\csharp-projects\\Loops\\Task3\\Program.cs",
               "RelativeDocumentMoniker": "Task3\\Program.cs",
@@ -102,12 +116,11 @@
               "RelativeToolTip": "Task3\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T20:12:50.766Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T20:12:50.766Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github Repositories\\csharp-projects\\Loops\\Task2\\Program.cs",
               "RelativeDocumentMoniker": "Task2\\Program.cs",
@@ -115,12 +128,11 @@
               "RelativeToolTip": "Task2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T20:11:45.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T20:11:45.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Github Repositories\\csharp-projects\\Loops\\Task1\\Program.cs",
               "RelativeDocumentMoniker": "Task1\\Program.cs",
@@ -128,8 +140,7 @@
               "RelativeToolTip": "Task1\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-05T20:03:03.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-05T20:03:03.158Z"
             }
           ]
         }
