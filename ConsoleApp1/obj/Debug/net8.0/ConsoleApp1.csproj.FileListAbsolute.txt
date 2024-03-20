@@ -1,5 +1,0 @@
-C:\Github Repositories\csharp-projects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Github Repositories\csharp-projects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
-C:\Github Repositories\csharp-projects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
-C:\Github Repositories\csharp-projects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
-C:\Github Repositories\csharp-projects\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.sourcelink.json
